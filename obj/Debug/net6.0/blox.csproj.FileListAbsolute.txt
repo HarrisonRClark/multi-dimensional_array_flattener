@@ -1,0 +1,17 @@
+W:\blox\bin\Debug\net6.0\blox.exe
+W:\blox\bin\Debug\net6.0\blox.deps.json
+W:\blox\bin\Debug\net6.0\blox.runtimeconfig.json
+W:\blox\bin\Debug\net6.0\blox.dll
+W:\blox\bin\Debug\net6.0\blox.pdb
+W:\blox\obj\Debug\net6.0\blox.csproj.AssemblyReference.cache
+W:\blox\obj\Debug\net6.0\blox.GeneratedMSBuildEditorConfig.editorconfig
+W:\blox\obj\Debug\net6.0\blox.AssemblyInfoInputs.cache
+W:\blox\obj\Debug\net6.0\blox.AssemblyInfo.cs
+W:\blox\obj\Debug\net6.0\blox.csproj.CoreCompileInputs.cache
+W:\blox\obj\Debug\net6.0\blox.dll
+W:\blox\obj\Debug\net6.0\refint\blox.dll
+W:\blox\obj\Debug\net6.0\blox.pdb
+W:\blox\obj\Debug\net6.0\blox.genruntimeconfig.cache
+W:\blox\obj\Debug\net6.0\ref\blox.dll
+W:\blox\bin\Debug\net6.0\CsvHelper.dll
+W:\blox\obj\Debug\net6.0\blox.csproj.CopyComplete
